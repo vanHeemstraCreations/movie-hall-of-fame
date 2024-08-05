@@ -2,6 +2,14 @@
 
 ## 100 - WIDE SHOT: Hall of Fame
 
+| Layers | Start | End | Duration | 2/3D |
+| --- | --- | --- | --- | --- |
+| Element 3D | | | | 3D |
+| Main Camera | | | | 3D |
+| Light | | | | 2D |
+
+### Walls, Floor and Ceiling
+
 Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
 
 Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
@@ -44,8 +52,9 @@ Also something important by clicking this box, you can show or hide a wall.
 
 I'll use this frequently later on since it makes it easier to see inside the room when we're putting our models in place.
 
-| Layers | Start | End | Duration | 2/3D |
-| --- | --- | --- | --- | --- |
-| Element 3D | | | | 3D |
-| Main Camera | | | | 3D |
-| Light | | | | 2D |
+### Camera
+
+Choose "Layere" > "New" > "Camera".
+
+Stay with the default configuration, it is a Preset of**35 mm**, and name it **Main CAmera**. Click **OK**.
+
