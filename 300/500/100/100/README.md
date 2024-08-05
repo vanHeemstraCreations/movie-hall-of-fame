@@ -52,6 +52,8 @@ Also something important by clicking this box, you can show or hide a wall.
 
 I'll use this frequently later on since it makes it easier to see inside the room when we're putting our models in place.
 
+**NOTE**: Leave the "front" wall hidden for now, so we can see the inside of the room.
+
 ### Camera
 
 Choose "Layere" > "New" > "Camera".
