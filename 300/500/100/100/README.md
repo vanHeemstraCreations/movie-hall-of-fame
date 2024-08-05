@@ -58,5 +58,5 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 
 Choose "Layer" > "New" > "Camera".
 
-Stay with the default configuration, it is a Preset of**35 mm**, and name it **Main CAmera**. Click **OK**.
+Stay with the default configuration, it is a Preset of **35 mm**, and name it **Main CAmera**. Click **OK**.
 
