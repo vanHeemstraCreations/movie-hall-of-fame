@@ -4,7 +4,7 @@
 
 Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
 
-What you want to do first is creating a new solid layer (ctrl+alt+shift+y), the color you pick doesn't matter.
+What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter.
 
 Then search for element in ‘effects & presets’ and add it to your solid layer.
 
