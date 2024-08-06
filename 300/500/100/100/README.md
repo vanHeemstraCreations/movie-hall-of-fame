@@ -14,7 +14,7 @@
 
 - Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
 
-What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter.
+What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter, but we pick black.
 
 Then search for element in ‘effects & presets’ and add it to your solid layer.
 
