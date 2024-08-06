@@ -67,4 +67,9 @@ Stay with the default configuration, it is a Preset of **35 mm**, and name it **
 - Based on "Green Screen Footage compositing Tutorial inside Element 3D II After effect" at https://www.youtube.com/watch?v=ENU50xRfT5o
 - ...
 
+### 3D Models
+
+- 3D Models from "CG Trader" at https://www.cgtrader.com/
+- 
+
  
