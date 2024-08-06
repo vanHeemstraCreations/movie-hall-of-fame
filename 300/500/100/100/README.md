@@ -10,9 +10,9 @@
 
 ### Walls, Floor and Ceiling
 
-Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
+- Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
 
-Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
+- Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
 
 What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter.
 
@@ -54,9 +54,15 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 
 **NOTE**: Leave the "front" wall hidden for now, so we can see the inside of the room.
 
-### Camera
+### Cameras
 
 Choose "Layer" > "New" > "Camera".
 
 Stay with the default configuration, it is a Preset of **35 mm**, and name it **Main Camera**. Click **OK**.
 
+### Lights
+
+- Based on "Green Screen Footage compositing Tutorial inside Element 3D II After effect" at https://www.youtube.com/watch?v=ENU50xRfT5o
+- ...
+
+ 
