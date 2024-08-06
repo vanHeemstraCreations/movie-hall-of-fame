@@ -6,7 +6,9 @@
 | --- | --- | --- | --- | --- |
 | Element 3D | | | | 3D |
 | Main Camera | | | | 3D |
-| Light | | | | 2D |
+| Key Light | | | | 2D |
+| Fill Light | | | | 2D |
+| Back Light | | | | 2D |
 
 ### Walls, Floor and Ceiling
 
