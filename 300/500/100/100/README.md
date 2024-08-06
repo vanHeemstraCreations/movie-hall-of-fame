@@ -75,6 +75,6 @@ Stay with the default configuration, it is a Preset of **35 mm**, and name it **
 Banco Way Design c/Almofadas Futon free 3D model at https://www.cgtrader.com/free-3d-models/furniture/sofa/banco-way-design-c-almofadas-futon
 
 ![modern-picture-2-3d-model-low-poly-max-obj-3ds-fbx-mtl-mat](https://github.com/user-attachments/assets/eb2e24a6-abd8-4164-b68c-ed42c4cb5be5)<br/>
-Modern Picture 2 Free low-poly 3D model
+Modern Picture 2 Free low-poly 3D model at https://www.cgtrader.com/free-3d-models/furniture/other/modern-picture-0
 
  
