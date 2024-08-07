@@ -65,6 +65,7 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 ### Cameras
 
 - Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
+- Based on "After effects + Element 3D + Camera movement Tutorial" at https://www.youtube.com/watch?v=ZC2swvgBC60
 
 Choose "Layer" > "New" > "Camera".
 
