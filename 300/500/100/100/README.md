@@ -68,7 +68,7 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 
 **TIP**: To make the floor reflect items that are placed on it, as well as the walls surrounding the floor, choose the ```Floor``` in the Scene Setup of the Element 3D layer. Under the Edit tab, scroll down all the way until the **Reflect Mode** and choose ```Mirror Surface``` from the drop-down list. See Tips & Tricks.
 
-**NOTE**: Leave the "front" wall hidden for now, so we can see the inside of the room.
+**NOTE**: Leave the "Front Wall" hidden for now, so we can see the inside of the room.
 
 ### Cameras
 
