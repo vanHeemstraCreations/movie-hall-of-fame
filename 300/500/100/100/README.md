@@ -12,6 +12,10 @@
 | On | --- | Fill Light | | | | 2D |
 | On | --- | Back Light | | | | 2D |
 
+### Tips & Tricks
+
+- Based on "ELEMENT 3D 10 TIPS AND TRICKS" at https://www.youtube.com/watch?v=_6W166jaL8Y
+
 ### Walls, Floor and Ceiling
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
