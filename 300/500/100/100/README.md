@@ -81,7 +81,7 @@ Modern Picture 2 Free low-poly 3D model at https://www.cgtrader.com/free-3d-mode
 
 ### 2D Artwork
 
-
+![vecteezy_teamwork-togetherness-collaboration-business-teamwork-concept_3113918](https://github.com/user-attachments/assets/1ff8d82e-56a6-4b81-8205-b78e265701fb)
 "Team Work" at https://vu.nl/nl/agenda/2024/hoe-verrijk-je-je-vak-met-casestudies-uit-de-echte-wereld
 
 ### Environments
