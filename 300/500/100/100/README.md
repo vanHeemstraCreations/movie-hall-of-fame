@@ -16,6 +16,8 @@
 
 - Based on "ELEMENT 3D 10 TIPS AND TRICKS" at https://www.youtube.com/watch?v=_6W166jaL8Y
 
+Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
+
 ### Walls, Floor and Ceiling
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
