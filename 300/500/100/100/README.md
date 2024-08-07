@@ -70,6 +70,8 @@ Stay with the default configuration, it is a Preset of **35 mm**, and name it **
 
 ### 3D Models
 
+**NOTE**: Element 3D uses the ```.obj``` file format.
+
 - 3D Models from "CG Trader" at https://www.cgtrader.com/
 - Optional: 3D Models from "TurboSquid" at https://www.turbosquid.com/
 - Based on "Import 3D Models to Element 3D in After Effects: Complete Tutorial" at https://www.youtube.com/watch?v=Qu9eCU9Ge54
