@@ -17,6 +17,8 @@
 
 - Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
 
+- Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
+
 What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter, but we pick black.
 
 Then search for element in ‘effects & presets’ and add it to your solid layer.
@@ -48,6 +50,8 @@ And now our room is almost done.
 Don't get confused by the walls below the floor level – these won't be visible at the end.
 
 Now to make the ceiling, we're going to duplicate the BoxModel used for the floor and increase the y position until it appears to rest on top of the walls, or just slightly below that.
+
+**WARNING**: Now all walls, ceiling, and floor will respond the same when applying a texture or color to them. To make them independent, click on each of their ```scene material```, right-click and choose "Duplicate and Replace". Now they will all behave independently.
 
 We've completed building our 3D room!
 
