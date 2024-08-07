@@ -2,14 +2,15 @@
 
 ## 100 - WIDE SHOT: Hall of Fame
 
-| Layers | Start | End | Duration | 2/3D |
-| --- | --- | --- | --- | --- |
-| Element 3D | | | | 3D |
-| Main Camera | | | | 3D |
-| Team Work | | | | 2D |
-| Key Light | | | | 2D |
-| Fill Light | | | | 2D |
-| Back Light | | | | 2D |
+| Visible| Audio | Layers | Start | End | Duration | 2/3D |
+| --- | --- | --- | --- | --- | --- | --- |
+| Off | --- | Main Camera - Null | | | | 3D |
+| On | --- | Main Camera | | | | 3D |
+| Off | --- | Team Work | | | | 2D |
+| On | --- | Element 3D | | | | 3D |
+| On | --- | Key Light | | | | 2D |
+| On | --- | Fill Light | | | | 2D |
+| On | --- | Back Light | | | | 2D |
 
 ### Walls, Floor and Ceiling
 
