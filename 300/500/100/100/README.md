@@ -79,6 +79,11 @@ Banco Way Design c/Almofadas Futon free 3D model at https://www.cgtrader.com/fre
 ![modern-picture-2-3d-model-low-poly-max-obj-3ds-fbx-mtl-mat](https://github.com/user-attachments/assets/eb2e24a6-abd8-4164-b68c-ed42c4cb5be5)<br/>
 Modern Picture 2 Free low-poly 3D model at https://www.cgtrader.com/free-3d-models/furniture/other/modern-picture-0
 
+### 2D Artwork
+
+
+"Team Work" at https://vu.nl/nl/agenda/2024/hoe-verrijk-je-je-vak-met-casestudies-uit-de-echte-wereld
+
 ### Environments
 
 - Based on "Import 3D Models to Element 3D in After Effects: Complete Tutorial" at https://www.youtube.com/watch?v=Qu9eCU9Ge54
