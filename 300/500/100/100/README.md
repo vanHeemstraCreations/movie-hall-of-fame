@@ -70,6 +70,7 @@ Stay with the default configuration, it is a Preset of **35 mm**, and name it **
 ### 3D Models
 
 - 3D Models from "CG Trader" at https://www.cgtrader.com/
+- Optional: 3D Models from "TurboSquid" at https://www.turbosquid.com/
 - Based on "Import 3D Models to Element 3D in After Effects: Complete Tutorial" at https://www.youtube.com/watch?v=Qu9eCU9Ge54
 
 ![banco-way-design-c-almofadas-futon-3d-model-max-obj-3ds-fbx-stl-skp](https://github.com/user-attachments/assets/71298b25-8574-415e-827e-26bc72a061de)<br/>
