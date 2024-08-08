@@ -147,3 +147,7 @@ https://www.google.com
 - Based on "Adobe After Effects 3D Projection VFX" at https://www.surfacedstudio.com/tutorials/after-effects/after-effects-3d-projection/
 - Based on "Fly Through Floors | After Effects Tutorial" at https://www.youtube.com/watch?v=4smSAkNIg_M
 - Based on "Submerged by Andrew Kramer of Video Copilot" at https://www.videocopilot.net/tutorials/submerged/
+
+### Corridors
+
+- Based on "After Effects: MultiPlane Animation in One Point Perspective" at https://www.youtube.com/watch?v=J0Ksgq8am8I
