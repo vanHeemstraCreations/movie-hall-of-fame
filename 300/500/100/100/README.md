@@ -76,6 +76,10 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 - Based on "After effects + Element 3D + Camera movement Tutorial" at https://www.youtube.com/watch?v=ZC2swvgBC60
 - Based on "I Love This Plugin!🌍💖An In-depth Look at HandyCam" at https://www.youtube.com/watch?v=mZsYini_-eM
 
+Plugins used:
+
+- "HandyCam" at https://aescripts.com/handycam/?aff=47
+
 Choose "Layer" > "New" > "Camera".
 
 Now the only thing that you'll need to worry about with the camera settings is the millimeters. So the larger the millimeter amount the closer it will be to like whatever it is you're viewing.
