@@ -124,3 +124,6 @@ Modern Picture 2 Free low-poly 3D model at https://www.cgtrader.com/free-3d-mode
 1) Visit [QRCode Monkey](https://www.qrcode-monkey.com/) in a web browser on your computer.
 2) You will be provided with various options such as website, message, location, Wi-Fi, social media, Bitcoin, and more. Choose what you’d like to generate a QR code for and enter the details in the provided boxes.
 3) Adjust the quality of the QR code, customize colors, add a logo, or edit the image before clicking the **Create QR Code** button.
+
+![qr-code google](https://github.com/user-attachments/assets/f7589191-62b3-4e41-a56c-7fb080b0df29)<br/>
+https://www.google.com
