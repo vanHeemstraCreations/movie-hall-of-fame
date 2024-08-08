@@ -116,4 +116,6 @@ Modern Picture 2 Free low-poly 3D model at https://www.cgtrader.com/free-3d-mode
 
 - Based on "Import 3D Models to Element 3D in After Effects: Complete Tutorial" at https://www.youtube.com/watch?v=Qu9eCU9Ge54
 
+### QR Codes
 
+- Based on "QR Code Generator Plug-in" at https://ff.de/qr-code-plugin/
