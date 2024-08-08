@@ -70,6 +70,10 @@ I'll use this frequently later on since it makes it easier to see inside the roo
 
 **NOTE**: Leave the "Front Wall" hidden for now, so we can see the inside of the room.
 
+### Doors
+
+- Based on "How To Create INFINITE DOOR TO DOOR LOOP - After Effects VFX Tutorial" at https://www.youtube.com/watch?v=o-RSydi1Uo8
+
 ### Cameras
 
 - Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
