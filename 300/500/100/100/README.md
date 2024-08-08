@@ -130,3 +130,10 @@ https://www.google.com
 ### Audio
 
 - Based on "Kevin MacLeod" at https://freemusicarchive.org/music/Kevin_MacLeod/
+
+"There It Is" at https://freemusicarchive.org/music/Kevin_MacLeod/Funk_Sampler/There_It_Is/
+
+### Transitions
+
+- Based on "Camera Through Wall or Floor - Adobe After Effects 3D Projection VFX Tutorial" at https://www.youtube.com/watch?v=cf21za9iuCo
+
