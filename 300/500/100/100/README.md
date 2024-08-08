@@ -136,4 +136,4 @@ https://www.google.com
 ### Transitions
 
 - Based on "Camera Through Wall or Floor - Adobe After Effects 3D Projection VFX Tutorial" at https://www.youtube.com/watch?v=cf21za9iuCo
-
+- Based on "Adobe After Effects 3D Projection VFX" at https://www.surfacedstudio.com/tutorials/after-effects/after-effects-3d-projection/
