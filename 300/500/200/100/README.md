@@ -1,6 +1,6 @@
 # 100 - Compositions
 
-## 100 - WIDE SHOT: Hall of Fame
+## 100 - WIDE SHOT: Int. Hall of Fame - Day
 
 | Visible| Audio | Layers | Start | End | Duration | 2/3D |
 | --- | --- | --- | --- | --- | --- | --- |
