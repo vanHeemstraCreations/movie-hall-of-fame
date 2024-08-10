@@ -2,8 +2,7 @@
 
 We follow these tutorials for this scene:
 
-- [Element 3D Room Tutorial | After Effects](https://www.youtube.com/watch?v=ex734smQB5Q)
-- [Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial](https://www.youtube.com/watch?v=jDPnV6eReDg)
+- [Create Hyper Visuals & Physics - Motion Design in After Effects](https://www.youtube.com/watch?v=WMwtXo29VQ8)
 
 ## 100 - Compositions
 
