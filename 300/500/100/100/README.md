@@ -1,1 +1,21 @@
 # 100 - Compositions
+
+## 100 - WIDE SHOT: Hall of Fame
+
+| Visible| Audio | Layers | Start | End | Duration | 2/3D |
+| --- | --- | --- | --- | --- | --- | --- |
+| Off | --- | Main Camera - Null | | | | 3D |
+| On | --- | Main Camera | | | | 3D |
+| Off | --- | Team Work | | | | 2D |
+| On | --- | Element 3D | | | | 3D |
+| On | --- | Key Light | | | | 2D |
+| On | --- | Fill Light | | | | 2D |
+| On | --- | Back Light | | | | 2D |
+
+### Tips & Tricks
+
+- Based on "ELEMENT 3D 10 TIPS AND TRICKS" at https://www.youtube.com/watch?v=_6W166jaL8Y
+
+### Walls, Floor and Ceiling
+
+- Based on "Create Hyper Visuals & Physics - Motion Design in After Effects" at https://www.youtube.com/watch?v=WMwtXo29VQ8
