@@ -1,4 +1,4 @@
-# 100 - INT. HALL OF FAME - DAY
+# 100 - EXT. HALL OF FAME - DAY
 
 We follow these tutorials for this scene:
 
