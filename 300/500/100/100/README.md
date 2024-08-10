@@ -16,6 +16,6 @@
 
 - Based on "ELEMENT 3D 10 TIPS AND TRICKS" at https://www.youtube.com/watch?v=_6W166jaL8Y
 
-### Walls, Floor and Ceiling
+### Walls and Roof
 
 - Based on "Create Hyper Visuals & Physics - Motion Design in After Effects" at https://www.youtube.com/watch?v=WMwtXo29VQ8
