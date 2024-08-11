@@ -31,6 +31,8 @@ Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
 - Based on "Modern Art Gallery 3D v2.2" at https://videohive.net/item/modern-art-gallery-3d-v21/15929195
   
 - Based on "Modern Art Gallery 3D v2.1 - Tutorial" at https://www.youtube.com/watch?v=iLupzvsOIhE
+  
+- Based on "Modern Art Gallery 3D v2 - Tutorial Relink Process" at https://www.youtube.com/watch?v=C42Ta1Knzjo
 
 What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter, but we pick black.
 
