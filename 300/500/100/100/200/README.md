@@ -1,7 +1,5 @@
 # 200 - WIDE SHOT: Ext. Hall of Fame - Day
 
-See (README.md)[./200/README.md]
-
 | Visible| Audio | Layers | Start | End | Duration | 2/3D |
 | --- | --- | --- | --- | --- | --- | --- |
 | Off | --- | Main Camera - Null | | | | 3D |
