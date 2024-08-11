@@ -21,4 +21,4 @@
 - Based on "Create Hyper Visuals & Physics - Motion Design in After Effects" at https://www.youtube.com/watch?v=WMwtXo29VQ8
 - Based on "3D Layers and Lighting in After Effects | Part 1: Intro to 3D Layers" at https://www.youtube.com/watch?v=nluMPMB8Qlw
 - Based on "Modern Art Museum Gallery / AI Traditional Art NFT Exhibition ( After Effects Template )" at https://www.youtube.com/watch?v=AyPQcY2RMR4
-
+- Bassed on "Modern Art Museum Gallery AI Traditional Art NFT Exhibition" at https://videohive.net/item/modern-art-museum-gallery-ai-traditional-art-nft-exhibition/
