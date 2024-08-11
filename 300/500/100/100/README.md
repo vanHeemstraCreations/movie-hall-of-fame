@@ -20,4 +20,4 @@
 
 - Based on "Create Hyper Visuals & Physics - Motion Design in After Effects" at https://www.youtube.com/watch?v=WMwtXo29VQ8
 - Based on "3D Layers and Lighting in After Effects | Part 1: Intro to 3D Layers" at https://www.youtube.com/watch?v=nluMPMB8Qlw
-- Based on "The Gallery - After Effects Template" at https://www.pond5.com/after-effects/item/32304385-gallery-after-effects-template
+- Based on "The Gallery - After Effects Template" at https://creativemedias.net/portfolio-item/the-gallery-2/
