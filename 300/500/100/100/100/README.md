@@ -5,3 +5,4 @@
 | Off | --- | Main Camera - Null | | | | 3D |
 
 - Based on "Cinematic 3D Stroke Logo Intro in After Effects | Tutorial" at https://www.youtube.com/watch?v=kqvfIwfw7bI
+- Based on "Cinematic 3D Stroke Logo Intro in After Effects" at https://www.youtube.com/watch?v=kqvfIwfw7bI
