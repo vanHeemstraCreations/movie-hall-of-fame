@@ -1,4 +1,4 @@
-# 200 - CLOSE-IP: Int . Hall of Fame - Day
+# 200 - CLOSE-UP: Int . Hall of Fame - Day
 
 | Visible| Audio | Layers | Start | End | Duration | 2/3D |
 | --- | --- | --- | --- | --- | --- | --- |
