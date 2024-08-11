@@ -1,6 +1,6 @@
 # 100 - Compositions
 
-## 100 - CLOSE-UP: Logo
+## 100 - CLOSE-UP: Title
 
 See (README.md)[./100/README.md]
 
