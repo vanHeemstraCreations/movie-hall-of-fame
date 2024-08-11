@@ -29,6 +29,8 @@ Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
 - Based on "The Gallery - After Effects Template" at https://creativemedias.net/portfolio-item/the-gallery-2/
 
 - Based on "Modern Art Gallery 3D v2.2" at https://videohive.net/item/modern-art-gallery-3d-v21/15929195
+  
+- Based on "Modern Art Gallery 3D v2.1 - Tutorial" at https://www.youtube.com/watch?v=iLupzvsOIhE
 
 What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter, but we pick black.
 
