@@ -24,4 +24,5 @@
 
 ### Doors
 
-- Based on "glass door" at https://www.turbosquid.com/3d-models/glass-door-1588560 
+- ~Based on "glass door" at https://www.turbosquid.com/3d-models/glass-door-1588560~
+- Based on "Glass Door 3D Model" at https://free3d.com/3d-model/glass-door-85154.html
