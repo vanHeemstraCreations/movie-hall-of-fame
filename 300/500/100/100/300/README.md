@@ -2,8 +2,8 @@
 
 | Visible| Audio | Layers | Start | End | Duration | 2/3D |
 | --- | --- | --- | --- | --- | --- | --- |
-| Off | --- | Handycam Controller | | | | 3D |
 | On | --- | Handycam Camera | | | | 3D |
+| On | --- | Handycam Controller | | | | 3D |
 | On | --- | [CLOSE-UP: Title](../100/README.md) | | | | 3D |
 | On | --- | [WIDE SHOT: Ext. Hall of Fame - Day](../200/README.md) | | | | 3D |
 | On | --- | Key Light | | | | 2D |
