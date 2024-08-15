@@ -28,3 +28,7 @@
 - ~Based on "Glass Door 3D Model" at https://free3d.com/3d-model/glass-door-85154.html~
 - Based on "Office Tempered Glass Door 3D Model" at https://www.renderhub.com/frezzy/office-tempered-glass-door
 - Based on "Transparent Glass Effect Tutorial in After Effects" at https://www.youtube.com/watch?v=OzaQxcmgF9Y
+
+For the Office Tempered Glass Door to be transparent in Element 3D, for the Glass set the Blend Mode to **Add** under Advanced inside the Scene Setup of Element 3D effect control.
+
+For the Office Tempered Glass Door to have chrome like armature in Element 3D, for the armature choose Metal_Diffused from the Scene Material.
