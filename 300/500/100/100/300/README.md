@@ -15,6 +15,7 @@
 - Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
 - Based on "After effects + Element 3D + Camera movement Tutorial" at https://www.youtube.com/watch?v=ZC2swvgBC60
 - Based on "I Love This Plugin!🌍💖An In-depth Look at HandyCam" at https://www.youtube.com/watch?v=mZsYini_-eM
+- Based on "HandyCam for After Effects" at https://www.youtube.com/watch?v=v581xYNF_wA
 - Based on "HandyCam for After Effects Tutorial" at https://www.youtube.com/watch?v=a8xYOCoQ88k
 
 Plugins used:
