@@ -25,5 +25,6 @@
 ### Doors
 
 - ~Based on "glass door" at https://www.turbosquid.com/3d-models/glass-door-1588560~
-- Based on "Glass Door 3D Model" at https://free3d.com/3d-model/glass-door-85154.html
+- ~Based on "Glass Door 3D Model" at https://free3d.com/3d-model/glass-door-85154.html~
 - Based on "Office Tempered Glass Door 3D Model" at https://www.renderhub.com/frezzy/office-tempered-glass-door
+- Based on "Transparent Glass Effect Tutorial in After Effects" at https://www.youtube.com/watch?v=OzaQxcmgF9Y
