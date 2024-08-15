@@ -29,6 +29,6 @@ So for example if I have a 15 millimeter one you can see it like zoomed out of i
 
 So I usually like to use 28. 35 is good too, but I usually use 28. 
 
-It's easier to move the camera and stuff with a **null layer** so I'm just going to create that and link my camera to the null and make sure to click the 3d.
+It's easier to move the camera and stuff with a **null layer** (with the effect: Plugin Everything > Handycam) so I'm just going to create that and link my camera to the null and make sure to click the 3d.
 
 For us, stay with the default configuration, it is a Preset of **35 mm**, and name it **Main Camera**. Click **OK**.
