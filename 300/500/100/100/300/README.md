@@ -1,6 +1,14 @@
 # 300 - TRACK: Ext. Title to Glass Doors - Day
 
-MORE
+| Visible| Audio | Layers | Start | End | Duration | 2/3D |
+| --- | --- | --- | --- | --- | --- | --- |
+| Off | --- | Main Camera - Null | | | | 3D |
+| On | --- | Main Camera | | | | 3D |
+| On | --- | CLOSE-UP: Title | | | | 3D |
+| On | --- | WIDE SHOT: Ext. Hall of Fame - Day | | | | 3D |
+| On | --- | Key Light | | | | 2D |
+| On | --- | Fill Light | | | | 2D |
+| On | --- | Back Light | | | | 2D |
 
 ### Cameras
 
