@@ -20,7 +20,8 @@
 - Based on "3D Layers and Lighting in After Effects | Part 1: Intro to 3D Layers" at https://www.youtube.com/watch?v=nluMPMB8Qlw
 - Based on "Modern Art Museum Gallery / AI Traditional Art NFT Exhibition ( After Effects Template )" at https://www.youtube.com/watch?v=AyPQcY2RMR4
 - Based on "Modern Art Museum Gallery AI Traditional Art NFT Exhibition" at https://videohive.net/item/modern-art-museum-gallery-ai-traditional-art-nft-exhibition/
-- Based on "Modern Art Museum Gallery NFT AI Traditional Art Exhibition" at https://hunterae.com/after-effects-projects/modern-art-museum-gallery-nft-ai-traditional-art-exhibition-42550449-videohive-download/ 
+- Based on "Modern Art Museum Gallery NFT AI Traditional Art Exhibition" at https://hunterae.com/after-effects-projects/modern-art-museum-gallery-nft-ai-traditional-art-exhibition-42550449-videohive-download/
+- Based on "Element 3D Tutorial: Extruding Objects with Illustrator Vectors" at https://www.youtube.com/watch?v=7EICc0iDwCs
 
 ### Doors
 
@@ -28,7 +29,10 @@
 - ~Based on "Glass Door 3D Model" at https://free3d.com/3d-model/glass-door-85154.html~
 - Based on "Office Tempered Glass Door 3D Model" at https://www.renderhub.com/frezzy/office-tempered-glass-door
 - Based on "Transparent Glass Effect Tutorial in After Effects" at https://www.youtube.com/watch?v=OzaQxcmgF9Y
+- Based on "Element 3D Tutorial: Extruding Objects with Illustrator Vectors" at https://www.youtube.com/watch?v=7EICc0iDwCs
 
 For the Office Tempered Glass Door to be transparent in Element 3D, for the Glass set the Blend Mode to **Add** under Advanced inside the Scene Setup of Element 3D effect control.
 
 For the Office Tempered Glass Door to have chrome like armature in Element 3D, for the armature choose **Metal_Diffused** from the Scene Material.
+
+For the Office Tempered Glass Door to be part of the Front Wall (see **Walls and Roof**), one has to extrude part of the Front Wall.
