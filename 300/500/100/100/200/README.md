@@ -36,3 +36,6 @@ For the Office Tempered Glass Door to be transparent in Element 3D, for the Glas
 For the Office Tempered Glass Door to have chrome like armature in Element 3D, for the armature choose **Metal_Diffused** from the Scene Material.
 
 For the Office Tempered Glass Door to be part of the Front Wall (see **Walls and Roof**), one has to extrude part of the Front Wall.
+
+### Cameras
+
