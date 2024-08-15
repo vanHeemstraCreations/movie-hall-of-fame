@@ -5,7 +5,7 @@
 | Off | --- | Main Camera - Null | | | | 3D |
 | On | --- | Main Camera | | | | 3D |
 | On | --- | [CLOSE-UP: Title](../100/README.md) | | | | 3D |
-| On | --- | WIDE SHOT: Ext. Hall of Fame - Day | | | | 3D |
+| On | --- | [WIDE SHOT: Ext. Hall of Fame - Day](../200/README.md) | | | | 3D |
 | On | --- | Key Light | | | | 2D |
 | On | --- | Fill Light | | | | 2D |
 | On | --- | Back Light | | | | 2D |
