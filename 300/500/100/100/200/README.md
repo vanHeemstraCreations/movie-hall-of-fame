@@ -4,7 +4,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Off | --- | Main Camera - Null | | | | 3D |
 | On | --- | Main Camera | | | | 3D |
-| Off | --- | Team Work | | | | 2D |
 | On | --- | Element 3D | | | | 3D |
 | On | --- | Key Light | | | | 2D |
 | On | --- | Fill Light | | | | 2D |
