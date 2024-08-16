@@ -1,7 +1,7 @@
 movie-hall-of-fame
 # Movie Hall of Fame
 
-Based on "ABC" at https://www.abc.com/
+Based on "Hall of Fame on Affine" at https://app.affine.pro/workspace/675fd88a-7fba-4194-8b02-1f059af1ffc4/all
 
 ## 100 - Introduction
 
