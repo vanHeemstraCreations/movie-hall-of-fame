@@ -10,6 +10,10 @@
 | On | --- | Fill Light | | | | 2D |
 | On | --- | Back Light | | | | 2D |
 
+### Textures
+
+- Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/
+
 ### Cameras
 
 - Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
