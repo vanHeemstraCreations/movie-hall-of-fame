@@ -16,6 +16,10 @@
 
 Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
 
+### Textures
+
+- Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/
+
 ### Walls, Floor and Ceiling
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
