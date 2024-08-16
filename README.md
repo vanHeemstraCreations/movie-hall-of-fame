@@ -3,6 +3,8 @@ movie-hall-of-fame
 
 Based on "Hall of Fame on Affine" at https://app.affine.pro/workspace/675fd88a-7fba-4194-8b02-1f059af1ffc4/all
 
+Based on "Hall of Fame in StudioBinder" at https://www.studiobinder.com/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
