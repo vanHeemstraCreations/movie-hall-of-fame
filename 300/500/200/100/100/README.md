@@ -98,7 +98,7 @@ It's easier to move a camera and stuff with a **null layer** so I'm just going t
 
 Choose "Layer" > "New" > "Null".
 
-Give it the effect of **HandyCam** and it will link a camera (called ```HandyCam_Camera```) to the null (called ```HandyCam_Controller``` once you have click the Setup. Make sure to click the 3d.
+Give it the plugin effect of **HandyCam** and it will link a camera (called ```HandyCam_Camera```) to the null (called ```HandyCam_Controller```) once you have click the Setup. Make sure to click the 3d.
 
 Now the only thing that you'll need to worry about with the camera settings is the millimeters. So the larger the millimeter amount the closer it will be to like whatever it is you're viewing.
 
