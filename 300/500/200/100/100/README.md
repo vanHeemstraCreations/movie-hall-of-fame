@@ -20,6 +20,10 @@ Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
 
 - Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/
 
+### Visual Effects
+
+- Based on "Magic Bullet Suite - MisFire effects test (all filters shown)" at https://youtu.be/RYMwbVTtx2M?t=59 (Vignette)
+
 ### Walls, Floor and Ceiling
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
