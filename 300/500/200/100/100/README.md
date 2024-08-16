@@ -19,18 +19,13 @@ Get Glossy Surface at https://youtu.be/_6W166jaL8Y?t=739
 ### Walls, Floor and Ceiling
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
-
 - Based on "Place video on screen of 3D television screen | Element 3D tutorial | After Effects tutorial" at https://www.youtube.com/watch?v=jDPnV6eReDg
-
 - Based on "3D ROOM ON AFTER EFFECTS ELEMENT 3D" at https://www.youtube.com/watch?v=M-cfMiuDOp0
-
 - Based on "The Gallery - After Effects Template" at https://creativemedias.net/portfolio-item/the-gallery-2/
-
 - Based on "Modern Art Gallery 3D v2.2" at https://videohive.net/item/modern-art-gallery-3d-v21/15929195
-  
 - Based on "Modern Art Gallery 3D v2.1 - Tutorial" at https://www.youtube.com/watch?v=iLupzvsOIhE
-  
 - Based on "Modern Art Gallery 3D v2 - Tutorial Relink Process" at https://www.youtube.com/watch?v=C42Ta1Knzjo
+- Based on "How To Texture a Box Using Video Copilot Element3D" at https://www.youtube.com/watch?v=tfojhWAufKg
 
 What you want to do first is creating a new solid layer (ctrl+alt+shift+y) and name it "Element 3D", the color you pick doesn't matter, but we pick black.
 
