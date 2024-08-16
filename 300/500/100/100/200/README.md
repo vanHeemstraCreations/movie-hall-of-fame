@@ -13,6 +13,10 @@
 
 - Based on "ELEMENT 3D 10 TIPS AND TRICKS" at https://www.youtube.com/watch?v=_6W166jaL8Y
 
+### Textures
+
+- Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/
+
 ### Walls and Roof
 
 - Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
