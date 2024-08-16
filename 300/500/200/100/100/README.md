@@ -2,8 +2,8 @@
 
 | Visible| Audio | Layers | Start | End | Duration | 2/3D |
 | --- | --- | --- | --- | --- | --- | --- |
-| Off | --- | Main Camera - Null | | | | 3D |
-| On | --- | Main Camera | | | | 3D |
+| Off | --- | HandyCam_Controller | | | | 3D |
+| On | --- | HandyCam_Camera | | | | 3D |
 | Off | --- | Team Work | | | | 2D |
 | On | --- | Element 3D | | | | 3D |
 | On | --- | Key Light | | | | 2D |
