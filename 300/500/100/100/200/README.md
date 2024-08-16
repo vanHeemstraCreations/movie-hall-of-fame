@@ -22,6 +22,7 @@
 - Based on "Modern Art Museum Gallery AI Traditional Art NFT Exhibition" at https://videohive.net/item/modern-art-museum-gallery-ai-traditional-art-nft-exhibition/
 - Based on "Modern Art Museum Gallery NFT AI Traditional Art Exhibition" at https://hunterae.com/after-effects-projects/modern-art-museum-gallery-nft-ai-traditional-art-exhibition-42550449-videohive-download/
 - Based on "Element 3D Tutorial: Extruding Objects with Illustrator Vectors" at https://www.youtube.com/watch?v=7EICc0iDwCs
+- Based on "How To Texture a Box Using Video Copilot Element3D" at https://www.youtube.com/watch?v=tfojhWAufKg
 
 ### Doors
 
