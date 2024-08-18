@@ -15,7 +15,8 @@
 
 ### Textures
 
-- Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/
+- ~Based on "Poliigon - 3D Textures, Models and HDRIs" at https://www.poliigon.com/ [Too Expensive]~
+- Based on "PolyHaven - Polystyrene" at https://polyhaven.com/a/polystyrene [Free]
 
 ### Walls and Roof
 
