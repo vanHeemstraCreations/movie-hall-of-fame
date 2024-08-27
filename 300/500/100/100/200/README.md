@@ -36,6 +36,7 @@
 - Based on "Office Tempered Glass Door 3D Model" at https://www.renderhub.com/frezzy/office-tempered-glass-door
 - Based on "Transparent Glass Effect Tutorial in After Effects" at https://www.youtube.com/watch?v=OzaQxcmgF9Y
 - Based on "Element 3D Tutorial: Extruding Objects with Illustrator Vectors" at https://www.youtube.com/watch?v=7EICc0iDwCs
+- Based on "The Art of Modern Door Design for Your Main Entrance" at https://artfasad.com/the-art-of-modern-door-design-for-your-main-entrance/
 
 For the Office Tempered Glass Door to be transparent in Element 3D, for the Glass set the Blend Mode to **Add** under Advanced inside the Scene Setup of Element 3D effect control.
 
